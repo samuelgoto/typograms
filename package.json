@@ -1,0 +1,19 @@
+{
+  "name": "typograms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samuelgoto/typograms.git"
+  },
+  "author": "",
+  "license": "Apache 2",
+  "bugs": {
+    "url": "https://github.com/samuelgoto/typograms/issues"
+  },
+  "homepage": "https://github.com/samuelgoto/typograms#readme"
+}
